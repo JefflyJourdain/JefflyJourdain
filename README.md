@@ -7,6 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JefflyJourdain?tab=repositories](https://github.com/JefflyJourdain?tab=repositories)
 
+- - Hire me: [https://www.upwork.com/freelancers/~0174559741f50cf1e7?mp_source=share](https://www.upwork.com/freelancers/~0174559741f50cf1e7?mp_source=share)
+
+
 - 📫 How to reach me **jefflymanuel.jourdain@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,6 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 🛠️ Tools
+
 Language: SQL, Python
 
 Database: Azure Sql, PostgreSQL, SqlServer
