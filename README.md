@@ -17,6 +17,9 @@
 <h3 align="left">Languages and Tools:</h3>
 🛠️ Tools
 Language: SQL, Python
-Database: Google BigQuery, PostgreSQL, MySQL
+
+Database: Azure Sql, PostgreSQL, SqlServer
+
 Visualization: Power Bi, Looker Studio
+
 Spreadsheets: Google Sheets, Excel
