@@ -12,7 +12,7 @@ Data Analyst and Organizational Intelligence professional with a robust backgrou
 
 - 🔭 Currently working on [Global Retail Sales Analysis](https://github.com/JefflyJourdain/global-retailer-Analysis)
 - 📊 PL-300 Power BI Certified
-- 📈 Increased sales conversion by 60% through data-driven process redesign
+- 📈 Increased sales conversion by 15% through data-driven process redesign
 - 🌎 Bilingual — English / Spanish
 - 📫 Reach me at **jefflymanuel.jourdain@gmail.com**
 
