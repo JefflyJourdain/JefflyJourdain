@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on [Global retail sales analysis](https://github.com/JefflyJourdain/global-retailer-Analysis)
 
-- 👨‍💻 All of my projects are available at [https://github.com/JefflyJourdain?tab=repositories](https://github.com/JefflyJourdain?tab=repositories)
-
+- 👨‍💻 All of my projects are available at https://github.com/JefflyJourdain/Portfolio-Projects/blob/main/README.md#sql
+- 
 - - Hire me: [https://www.upwork.com/freelancers/~0174559741f50cf1e7?mp_source=share](https://www.upwork.com/freelancers/~0174559741f50cf1e7?mp_source=share)
 
 
