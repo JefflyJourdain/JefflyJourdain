@@ -1,28 +1,40 @@
 <h1 align="center">Hi 👋, I'm Jeff</h1>
+
 <img width="1600" height="480" alt="image" src="https://github.com/user-attachments/assets/f032d511-ad9a-4cc1-99e2-7f5c04f389dc" />
 
-<h3 align="center">Data Analyst and Organizational Intelligence professional with a background in sales and business optimization</h3>
+<h3 align="center">Data Analyst & Organizational Intelligence Professional | SQL · Python · Power BI</h3>
 
-- 🔭 I’m currently working on [Global retail sales analysis](https://github.com/JefflyJourdain/global-retailer-Analysis)
+---
 
-- 👨‍💻 All of my projects are available at https://github.com/JefflyJourdain/Portfolio-Projects/blob/main/README.md#sql
+## 🙋🏻‍♂️ About Me
 
-- - Hire me: [https://www.upwork.com/freelancers/~0174559741f50cf1e7?mp_source=share](https://www.upwork.com/freelancers/~0174559741f50cf1e7?mp_source=share)
+Data Analyst and Organizational Intelligence professional with a robust background in sales and business optimization and an engineering degree in Data Engineering and Organizational Intelligence. Expert at bridging the gap between raw data and strategic decision-making to drive revenue.
 
-- 📫 How to reach me **jefflymanuel.jourdain@gmail.com**
+- 🔭 Currently working on [Global Retail Sales Analysis](https://github.com/JefflyJourdain/global-retailer-Analysis)
+- 📊 PL-300 Power BI Certified
+- 📈 Increased sales conversion by 60% through data-driven process redesign
+- 🌎 Bilingual — English / Spanish
+- 📫 Reach me at **jefflymanuel.jourdain@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jeff-jourdain232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeff-jourdain232/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-🛠️ Tools
+## 📚 Projects
 
-Language: SQL, Python
+Welcome to my portfolio, where I showcase my [projects](https://github.com/JefflyJourdain/Portfolio-Projects/blob/main/README.md#sql).
 
-Database: Azure Sql, PostgreSQL, SqlServer
+---
 
-Visualization: Power Bi, Looker Studio
+## 🛠️ Tools
 
-Spreadsheets: Google Sheets, Excel
+- **Languages:** SQL, Python
+- **Databases:** Azure SQL, PostgreSQL, SQL Server
+- **Visualization:** Power BI, Looker Studio
+- **Spreadsheets:** Google Sheets, Excel
+
+---
+
+## 👋🏻 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/jeff-jourdain232/)
+- [LeetCode](https://leetcode.com/u/JeffTheAnalyst/)
+- [Upwork](https://www.upwork.com/freelancers/~0174559741f50cf1e7?mp_source=share)
