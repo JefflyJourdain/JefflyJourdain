@@ -10,7 +10,6 @@
 
 Data Analyst and Organizational Intelligence professional with a robust background in sales and business optimization and an engineering degree in Data Engineering and Organizational Intelligence. Expert at bridging the gap between raw data and strategic decision-making to drive revenue.
 
-- 🔭 Currently working on [Global Retail Sales Analysis](https://github.com/JefflyJourdain/global-retailer-Analysis)
 - 📊 PL-300 Power BI Certified
 - 📈 Increased sales conversion by 15% through data-driven process redesign
 - 🌎 Bilingual — English / Spanish
